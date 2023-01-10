@@ -1,2 +1,1 @@
-# cracker
-Cracker for crack accounts facebook
+This script for crack accounts facebook.
